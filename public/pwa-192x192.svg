@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d9488;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f766e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="40" fill="url(#grad1)" />
+  <!-- Heart & Cross Shield for Maternal Care -->
+  <g transform="translate(36, 36) scale(1.2)" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z" fill="rgba(255,255,255,0.15)" />
+    <!-- Pulse Line -->
+    <path d="M4 12h4l2-4 3 8 3-6 2 2h4" stroke="#5eead4" stroke-width="4" />
+  </g>
+  <circle cx="145" cy="45" r="14" fill="#10b981" stroke="#ffffff" stroke-width="3" />
+  <path d="M141 45l3 3 6-6" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
+

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="grad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d9488;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0f766e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#115e59;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="url(#grad512)" />
+  <g transform="translate(106, 96) scale(3.1)" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Heart outline -->
+    <path d="M48 35c3.5-3.5 7.5-7.5 7.5-13A13 13 0 0 0 42 9c-4.2 0-7.2 1.2-11 5-3.8-3.8-6.8-5-11-5A13 13 0 0 0 7 22c0 5.5 4 9.5 7.5 13l16.5 16.5Z" fill="rgba(255,255,255,0.12)" />
+    <!-- Pulse Line (ECG) -->
+    <path d="M12 28h10l5-10 7 20 7-15 5 5h10" stroke="#5eead4" stroke-width="4.5" />
+    <!-- Shield / Protection Badge -->
+    <circle cx="78" cy="18" r="14" fill="#10b981" stroke="#ffffff" stroke-width="3.5" />
+    <path d="M73 18l3.5 3.5 7-7" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  <text x="256" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="700" fill="#ccfbf1" text-anchor="middle" letter-spacing="3">MATERNAL CARE AI</text>
+</svg>
+
